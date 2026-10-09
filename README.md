@@ -1,4 +1,4 @@
-# Estimating/ Mapping Mental Health Risk for Adolescent Girls in Uttar Pradesh
+# Mapping Mental Health Risk: Designing the Sample for a Clinical Research Study
 
 Data Sources: Census, DCHB and NFHS data.
 
