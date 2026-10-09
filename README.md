@@ -6,7 +6,7 @@ Data Sources: Census, DCHB and NFHS data.
 
 | File | Purpose |
 |---|---|
-| `mhrs_compute.R` | The calculation. **It is never edited.** |
+| `mhrs_compute.R` | Calculation file. |
 | `MHRS_Dummy_Input.xlsx` | Synthetic example of the input workbook (shows every sheet and column format). Replace its contents with your own data. |
 | `MHRS_Dummy_Output.xlsx` | Example of the output produced from the dummy input. (The script names its own output `<input name>_MHRS_output.xlsx` unless you give a name.) |
 
