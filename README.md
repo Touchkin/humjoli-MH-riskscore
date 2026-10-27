@@ -1,6 +1,8 @@
 # Mapping Mental Health Risk: Designing the Sample for a Clinical Research Study
 
-Data Sources: Census, DCHB and NFHS data.
+Where reliable prevalence data is unavailable, we built a transparent, block-level risk score for adolescent girls from open government data. The score ranks places by concentration of risk factors rather than measuring prevalence, and the method can be adapted to other states.
+
+Read our blog for more insights: [Project Humjoli](https://impact.wysa.com/humjoli/research/mental-health-risk-score-adolescent-girls-uttar-pradesh)
 
 **Files**
 
